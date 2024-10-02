@@ -1,5 +1,5 @@
 # NPC-Remove--Zones
-Remove NPC's fropm anywhere you want with this simple code
+Remove NPC's from anywhere you want with this simple code
 
 
 Drag file qb-npcremove to you resources
@@ -12,4 +12,4 @@ Fore support join my discord
 
 https://discord.gg/h3deXeGcBC
 
-__YRNBAM <3
+__YRNBAM 🖤👀
